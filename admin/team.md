@@ -115,8 +115,8 @@ Continually seeking ways to optimize the development experience.
 
 ### Yannis Smith
 - **Role:** [Role]
-- **Major:** [Major] @ UCSD
-- **About:** [Brief bio — 1-2 sentences]
+- **Major:** CS @ UCSD
+- **About:** I like to do stuff and play stuff.
 - **GitHub:** [Ywreckz](https://github.com/Ywreckz)
 
 > "[Fun quote]" — [Name]
